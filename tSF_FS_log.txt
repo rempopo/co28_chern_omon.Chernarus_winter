@@ -1,0 +1,13 @@
+"####### tSF File Sweeper Engaged #######" 
+Mission directory:     C:\Users\lim\Documents\Arma 3 - Other Profiles\lim-\mpmissions\co28_chern_omon.Chernarus_winter\ 
+Mission fodler name:   co28_chern_omon 
+Removing tSF Helpers 
+Removing DynAI Helpers 
+Removing unused tSF Modules 
+    Folder is not used: Removing AirborneSupport 
+    Folder is not used: Removing Interactives 
+    Folder is not used: Removing InteractivesACE 
+    Folder is not used: Removing EditorVehicleCrew 
+    Folder is not used: Removing EditorUnitBehavior 
+    Folder is not used: Removing EditorRadioSettings 
+Done! 
